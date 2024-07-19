@@ -7,3 +7,6 @@ https://www.bilibili.com/read/cv35952515/?spm_id_from=333.999.0.0
 
 https://www.ablesci.com/assist/index
 
+3：知网翻译，专业学术翻译
+
+https://dict.cnki.net/index
