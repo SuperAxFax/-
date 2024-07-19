@@ -22,3 +22,7 @@ https://www.connectedpapers.com/
 6：文献侦查器
 
 https://ai.toedit.com/cg/user/app/detail/27961
+
+7：搜索引擎（联合搜索引擎）
+
+http://gobaidugle.com/
