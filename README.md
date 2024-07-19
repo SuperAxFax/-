@@ -16,4 +16,9 @@ https://dict.cnki.net/index
 http://www.459.org/
 
 5：文献关联网站（找出与该文件关联的网站）
+
 https://www.connectedpapers.com/
+
+6：文献侦查器
+
+https://ai.toedit.com/cg/user/app/detail/27961
